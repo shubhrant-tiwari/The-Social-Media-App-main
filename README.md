@@ -26,6 +26,6 @@ Creating many container components that integrate with Redux
 Testing with the Redux Chrome extension
 
 
-## ankitk.cse19@chitkarauniversity.edu.in
+## shubhranttiwari.cse19@chitkarauniversity.edu.in
 
 
