@@ -1,0 +1,7 @@
+{
+    "mongoURI":"mongodb+srv://Ankit_kumar:Ak108079@@cluster0.mfly1.mongodb.net/socialdb?retryWrites=true&w=majority",
+    "mongoUxI":"mongodb://localhost:27017/mydb",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "4fc91e7f9e9a69684cb4",
+    "githubSecret": "c2887c902b4059b261a92287973f5325f16b8662"
+}
